@@ -1,7 +1,8 @@
 # physmod-physics-engine
 
 This repository contains ongoing work to automate the following framework.
-[Framework.pdf](https://github.com/UoY-RoboStar/physmod-physics-engine/files/14614677/Framework.pdf)
+![Framework](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/2358ae35-dc31-42a4-ad1f-42b7446856c9)
+
 
 
 ## Example: Simple Arm
