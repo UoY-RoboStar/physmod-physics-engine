@@ -1,7 +1,7 @@
 # Framework
 ![Framework](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/88e645d8-48e2-4ccb-b8ed-9f9be97680bf)
 
-We illustrate the steps of this technique applied to the following p-model:
+We illustrate the steps of each technique applied to the following p-model:
 ![SimpleArmSerial](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/40aa0e10-6436-444d-aa79-88fe527a29ed)
 
 # Technique 3
@@ -29,9 +29,20 @@ The output of this step is: Topology = _SerialChain_
 ![getChildLinks](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/c559cc30-e91d-4736-9540-124554900b1c)
 
 The result of this step is: 
+
 ![assignNumberingOutput](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/c223e7a3-7483-46d8-be0c-48992fcd39e0)
 
+**Step 4)**
+![linkEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/5aa0e785-7d58-43d9-a7c6-cb30edc276da)
+
+![jointEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/cb857dff-7273-4707-ac77-ae491bcb76b7)
+
+**Step 5)**
+![SystemEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b6e45249-8a02-4e80-a488-93adf93540cd)
+
+
 # Technique 4
+
 ![Technique4](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/321c62df-68ad-4902-9366-41bba2c3e1a0)
 
 # Technique 5
