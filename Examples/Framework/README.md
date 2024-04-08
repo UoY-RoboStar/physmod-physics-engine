@@ -1,13 +1,19 @@
 # Framework
 ![Framework](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/88e645d8-48e2-4ccb-b8ed-9f9be97680bf)
 
+We illustrate the steps of this technique applied to the following p-model:
+![SimpleArmSerial](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/40aa0e10-6436-444d-aa79-88fe527a29ed)
 
 # Technique 3
 ![Technique3](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/99aaf650-1751-4d50-a35b-245236da3117)
 
+The second step is calculated as follows.
+
 ![calculateTopology](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/a87bfaca-8e16-4e20-a2fe-39f07282f87d)
 
+The output of this step is: Topology = _SerialChain_
 ![assignNumbering](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/929c841e-26af-44b2-becf-877ae8562476)
+
 
 ![orderPmodel](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/067685b1-74d6-4202-af9e-869591c98d46)
 
