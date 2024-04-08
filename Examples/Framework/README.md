@@ -29,6 +29,7 @@ The output of this step is: Topology = _SerialChain_
 ![getChildLinks](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/c559cc30-e91d-4736-9540-124554900b1c)
 
 The result of this step is: 
+![assignNumberingOutput](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/c223e7a3-7483-46d8-be0c-48992fcd39e0)
 
 # Technique 4
 ![Technique4](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/321c62df-68ad-4902-9366-41bba2c3e1a0)
