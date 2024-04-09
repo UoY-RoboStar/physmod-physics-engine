@@ -12,10 +12,16 @@
 ![Technique3](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/99aaf650-1751-4d50-a35b-245236da3117)
 The result of each step of Technique 3 applied to the SimpleArm serial chain example is presented below.
 
-**Step 1)**
-![calculateFormulation](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/0a5a6903-476e-4a76-bc28-fcc4995b30fb)
+<details open>
+  <summary>**Step 1)**:</summary>
+    
+  ![calculateFormulation](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/0a5a6903-476e-4a76-bc28-fcc4995b30fb)
 
-The result of this step is: formulation = _SKO_
+  The result of this step is: formulation = _SKO_
+
+</details>
+
+
 
 **Step 2).**
 
