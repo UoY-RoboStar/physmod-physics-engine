@@ -12,8 +12,8 @@
 ![Technique3](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/99aaf650-1751-4d50-a35b-245236da3117)
 The result of each step of Technique 3 applied to the SimpleArm serial chain example is presented below.
 
+**Step 1)**
 <details open>
-  <summary>**Step 1)**:</summary>
     
   ![calculateFormulation](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/0a5a6903-476e-4a76-bc28-fcc4995b30fb)
 
@@ -24,13 +24,17 @@ The result of each step of Technique 3 applied to the SimpleArm serial chain exa
 
 
 **Step 2).**
+<details open>
 
 ![calculateTopology](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/a87bfaca-8e16-4e20-a2fe-39f07282f87d)
 
 The output of this step is: Topology = _SerialChain_
 
-**Step 3)**
+</details>
 
+**Step 3)**
+<details open>
+  
 ![assignNumbering](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/929c841e-26af-44b2-becf-877ae8562476)
 
 ![orderPmodel](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/067685b1-74d6-4202-af9e-869591c98d46)
@@ -42,16 +46,25 @@ The output of this step is: Topology = _SerialChain_
 The result of this step is: 
 
 ![assignNumberingOutput](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/c223e7a3-7483-46d8-be0c-48992fcd39e0)
+</details>
 
 **Step 4)**
+<details open>
 
 ![linkEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/5aa0e785-7d58-43d9-a7c6-cb30edc276da)
 
 ![jointEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/cb857dff-7273-4707-ac77-ae491bcb76b7)
 
+</details>
+
 **Step 5)**
+<details open>
 
 ![SystemEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b6e45249-8a02-4e80-a488-93adf93540cd)
+
+</details>
+
+
 
 
 # Technique 4
