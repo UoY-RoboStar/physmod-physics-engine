@@ -10,6 +10,7 @@
 
 # Technique 3
 ![Technique3](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/99aaf650-1751-4d50-a35b-245236da3117)
+
 The result of each step of Technique 3 applied to the SimpleArm serial chain example is presented below.
 
 **Step 1)**
