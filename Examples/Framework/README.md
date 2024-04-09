@@ -2,7 +2,8 @@
 ![Framework](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/88e645d8-48e2-4ccb-b8ed-9f9be97680bf)
 
 <details open>
-  <summary>We illustrate the steps of each technique applied to the following p-model:>
+  <summary>We illustrate the steps of each technique applied to the following p-model:</summary>
+    
   ![SimpleArmSerial](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/40aa0e10-6436-444d-aa79-88fe527a29ed)
 
 </details>
