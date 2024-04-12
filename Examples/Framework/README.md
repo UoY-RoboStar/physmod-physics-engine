@@ -52,16 +52,47 @@ The result of this step is:
 **Step 4)**
 <details open>
 
+The formulation-dependent calculation for the components is as follows:
+
 ![linkEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/5aa0e785-7d58-43d9-a7c6-cb30edc276da)
 
 ![jointEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/cb857dff-7273-4707-ac77-ae491bcb76b7)
+
+The result of this step is:
+<details open>
+  
+![Gripper](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/1b91db98-1dc6-4631-8ee2-7cb74a984bc3)
+
+![IntermediateLink](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/328b0f5e-d842-48bd-b95b-1f0bd4c0d72f)
+
+![BaseLink](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/7b4633e8-3740-4d10-bc19-0488816ed6b5)
+
+![WristJoint](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/d0d59e16-fce7-48f7-b9f6-b39cc5e1b2b2)
+
+![ElbowJoint](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/cdd515d7-3dbc-4769-a48c-a406bff3c097)
+
+</details>
+
+
+
 
 </details>
 
 **Step 5)**
 <details open>
 
+The formulation-dependent calculation for the whole system is as follows:
+
 ![SystemEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b6e45249-8a02-4e80-a488-93adf93540cd)
+
+The result of this step is:
+<details open>
+
+</details>
+
+![pmodel1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/484d7a7f-2a08-4e8d-a1e6-87901eefb582)
+
+![pmodel2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/c8e5f629-f407-4807-b463-f1e243650dc6)
 
 </details>
 
