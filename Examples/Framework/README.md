@@ -1,7 +1,7 @@
 # Framework
 ![Framework](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/88e645d8-48e2-4ccb-b8ed-9f9be97680bf)
 
-<details open>
+<details closed>
   <summary>We illustrate the steps of each technique applied to the following p-model:</summary>
     
   ![SimpleArmSerial](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/40aa0e10-6436-444d-aa79-88fe527a29ed)
@@ -14,7 +14,7 @@
 The result of each step of Technique 3 applied to the SimpleArm serial chain example is presented below.
 
 **Step 1)**
-<details open>
+<details closed>
     
   ![calculateFormulation](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/0a5a6903-476e-4a76-bc28-fcc4995b30fb)
 
@@ -25,7 +25,7 @@ The result of each step of Technique 3 applied to the SimpleArm serial chain exa
 
 
 **Step 2).**
-<details open>
+<details closed>
 
 ![calculateTopology](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/a87bfaca-8e16-4e20-a2fe-39f07282f87d)
 
@@ -34,7 +34,7 @@ The output of this step is: Topology = _SerialChain_
 </details>
 
 **Step 3)**
-<details open>
+<details closed>
   
 ![assignNumbering](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/929c841e-26af-44b2-becf-877ae8562476)
 
@@ -50,7 +50,7 @@ The result of this step is:
 </details>
 
 **Step 4)**
-<details open>
+<details closed>
 
 The formulation-dependent calculation for the components is as follows:
 
@@ -59,7 +59,7 @@ The formulation-dependent calculation for the components is as follows:
 ![jointEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/cb857dff-7273-4707-ac77-ae491bcb76b7)
 
 The result of this step is:
-<details open>
+<details closed>
   
 ![Gripper](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/1b91db98-1dc6-4631-8ee2-7cb74a984bc3)
 
@@ -79,14 +79,14 @@ The result of this step is:
 </details>
 
 **Step 5)**
-<details open>
+<details closed>
 
 The formulation-dependent calculation for the whole system is as follows:
 
 ![SystemEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b6e45249-8a02-4e80-a488-93adf93540cd)
 
 The result of this step is:
-<details open>
+<details closed>
 
 </details>
 
