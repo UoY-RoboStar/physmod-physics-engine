@@ -88,11 +88,12 @@ The formulation-dependent calculation for the whole system is as follows:
 The result of this step is:
 <details closed>
 
-</details>
-
 ![pmodel1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/484d7a7f-2a08-4e8d-a1e6-87901eefb582)
 
 ![pmodel2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/c8e5f629-f407-4807-b463-f1e243650dc6)
+
+</details>
+
 
 </details>
 
