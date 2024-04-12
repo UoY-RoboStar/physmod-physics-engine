@@ -92,6 +92,9 @@ The result of this step is:
 
 ![pmodel2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/c8e5f629-f407-4807-b463-f1e243650dc6)
 
+![Datatypes](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/23c4fa1e-1ebb-43fb-9c98-5508921aefe6)
+
+
 </details>
 
 
