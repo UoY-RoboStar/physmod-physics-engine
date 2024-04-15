@@ -123,9 +123,81 @@ The result of this step is:
 choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{\tau}}(0) = \boldsymbol{\mathbf{0}}$, 1), ($\boldsymbol{\mathbf{\theta}},Method1$, \textit{IBConditions}, 7), ($\dot{\boldsymbol{\mathbf{\theta}}}$, Euler, $\dot{\boldsymbol{\mathbf{\theta}}}(0) = \boldsymbol{\mathbf{0}}, 6)$, $(\ddot{\boldsymbol{\mathbf{\theta}}}$, Direct Forward Dynamics,  $\ddot{\boldsymbol{\mathbf{\theta}}}(0) = \\boldsymbol{\mathbf{0}}$, 5), ($\boldsymbol{\mathbf{C}}$, Newton-Euler Inverse Dynamics, $\boldsymbol{\mathbf{C}}(\boldsymbol{\mathbf{0}}) = \boldsymbol{\mathbf{0}}$, 3), ($\mathcal{M}$, Composite Body Algorithm, $\mathcal{M}(\boldsymbol{\mathbf{0}}) = \mathcal{M}$, 2), ($\mathcal{M}^{-1}$, Cholesky Algorithm, $\mathcal{M}^{-1}(\boldsymbol{\mathbf{0}}) = \boldsymbol{\mathbf{0}}$, 4)\}
 
 </details>
+</details>
 
+**Step 2)**
+<details closed>
+
+  ![updatePModel](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/ad8b579f-f41b-42e6-a4a8-33e656730878)
+
+The result of this step is:
+<details closed>
+  
+  </details>
+</details>
+
+**Step 3)**
+<details closed>
+  The result of this step is:
+<details closed>
+
+  </details>
+</details>
+
+**Step 4)**
+<details closed>
+
+  The result of this step is:
+<details closed>
+
+  </details>
+</details>
+
+**Step 5)**
+<details closed>
+
+  The result of this step is:
+<details closed>
+
+  </details>
 </details>
 
 # Technique 5
 ![Technique5](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/251c93e0-ffdf-4b75-a85a-21505bfce027)
 
+
+
+**Step 1)**
+<details closed>
+  The result of this step is:
+<details closed>
+
+  </details>
+</details>
+
+**Step 2)**
+<details closed>
+
+  The result of this step is:
+<details closed>
+
+  </details>
+</details>
+
+**Step 3)**
+<details closed>
+
+  The result of this step is:
+<details closed>
+
+  </details>
+</details>
+
+**Step 4)**
+<details closed>
+
+  The result of this step is:
+<details closed>
+
+  </details>
+</details>
