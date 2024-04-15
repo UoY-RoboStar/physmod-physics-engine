@@ -138,8 +138,10 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 
 **Step 3)**
 <details closed>
-  The result of this step is:
 <details closed>
+<summary>The result of this step is:</summary>
+
+  ![appendSolutions_result](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/52d1ff88-c577-4aa8-8810-24e173591fe4)
 
   </details>
 </details>
