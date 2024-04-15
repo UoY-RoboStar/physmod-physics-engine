@@ -108,13 +108,22 @@ The input for this technique is:
 <details closed>
 pmodel = SimpleArm
 
-userChoice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, ($\boldsymbol{\mathbf{\tau}}$(0) = $\boldsymbol{\mathbf{0}}$, 1), (($\boldsymbol{\mathbf{\theta}}$,Method1, \textit{IBConditions}, 7)\}
+userChoice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, ($\boldsymbol{\mathbf{\tau}}$(0) = $\boldsymbol{\mathbf{0}}$, 1), (($\boldsymbol{\mathbf{\theta}}$,Method1, \textit{IBConditions}, 2)\}
 </details>
 
 **Step 1)**
 <details closed>
   
 ![resolveMethod](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b1a14b17-9287-4276-b151-7efb56ef3480)
+
+The result of this step is:
+
+choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{\tau}}(0) = \bm{0}$, 1), ($\bm{\theta},Method1$, \textit{IBConditions}, 7), ($\dot{\bm{\theta}}$, Euler, $\dot{\bm{\theta}}(0) = \bm{0}, 6)$, $(\Ddot{\bm{\theta}}$, Direct Forward Dynamics,  $\Ddot{\bm{\theta}}(0) = \bm{0}$, 5), ($\bm{C}$, Newton-Euler Inverse Dynamics, $\bm{C}(\bm{0}) = \bm{0}$, 3), ($\mathcal{M}$, Composite Body Algorithm, $\mathcal{M}(\bm{0}) = \mathcal{M}$, 2), ($\mathcal{M}^{-1}$, Cholesky Algorithm, $\mathcal{M}^{-1}(\bm{0}) = \bm{0}$, 4)\}
+<details closed>
+  
+![resolveMethod](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b1a14b17-9287-4276-b151-7efb56ef3480)
+
+</details>
 
 </details>
 
