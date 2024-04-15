@@ -120,7 +120,7 @@ userChoice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, ($\boldsymbol{\ma
 The result of this step is:
 <details closed>
   
-choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{\tau}}(0) = \boldsymbol{\mathbf{0}}$, 1), ($\bm{\theta},Method1$, \textit{IBConditions}, 7), ($\dot{\boldsymbol{\mathbf{\theta}}}$, Euler, $\dot{\boldsymbol{\mathbf{\theta}}}(0) = \boldsymbol{\mathbf{0}}, 6)$, $(\ddot{\boldsymbol{\mathbf{\theta}}}$, Direct Forward Dynamics,  $\Ddot{\boldsymbol{\mathbf{\theta}}}(0) = \\boldsymbol{\mathbf{0}}$, 5), ($\boldsymbol{\mathbf{C}}$, Newton-Euler Inverse Dynamics, $\boldsymbol{\mathbf{C}}(\bm{0}) = \boldsymbol{\mathbf{0}}$, 3), ($\mathcal{M}$, Composite Body Algorithm, $\mathcal{M}(\boldsymbol{\mathbf{0}}) = \mathcal{M}$, 2), ($\mathcal{M}^{-1}$, Cholesky Algorithm, $\mathcal{M}^{-1}(\boldsymbol{\mathbf{0}}) = \boldsymbol{\mathbf{0}}$, 4)\}
+choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{\tau}}(0) = \boldsymbol{\mathbf{0}}$, 1), ($\boldsymbol{\mathbf{\theta}},Method1$, \textit{IBConditions}, 7), ($\dot{\boldsymbol{\mathbf{\theta}}}$, Euler, $\dot{\boldsymbol{\mathbf{\theta}}}(0) = \boldsymbol{\mathbf{0}}, 6)$, $(\ddot{\boldsymbol{\mathbf{\theta}}}$, Direct Forward Dynamics,  $\ddot{\boldsymbol{\mathbf{\theta}}}(0) = \\boldsymbol{\mathbf{0}}$, 5), ($\boldsymbol{\mathbf{C}}$, Newton-Euler Inverse Dynamics, $\boldsymbol{\mathbf{C}}(\boldsymbol{\mathbf{0}}) = \boldsymbol{\mathbf{0}}$, 3), ($\mathcal{M}$, Composite Body Algorithm, $\mathcal{M}(\boldsymbol{\mathbf{0}}) = \mathcal{M}$, 2), ($\mathcal{M}^{-1}$, Cholesky Algorithm, $\mathcal{M}^{-1}(\boldsymbol{\mathbf{0}}) = \boldsymbol{\mathbf{0}}$, 4)\}
 
 </details>
 
