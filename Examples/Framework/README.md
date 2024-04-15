@@ -128,11 +128,11 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 **Step 2)**
 <details closed>
 
-  ![updatePModel](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/ad8b579f-f41b-42e6-a4a8-33e656730878)
+![updatePModel](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/44ef9e87-fb39-4beb-9fe2-ec7e149c8fde)
 
-The result of this step is:
+The result of this step:
 <details closed>
-  
+  appends the variable minv to the pmodel. 
   </details>
 </details>
 
