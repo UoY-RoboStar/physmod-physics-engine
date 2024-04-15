@@ -101,7 +101,7 @@ The result of this step is:
 </details>
 
 
-
+\newcommand{\bm}[1]{\boldsymbol{\mathbf{#1}}}
 
 # Technique 4
 
