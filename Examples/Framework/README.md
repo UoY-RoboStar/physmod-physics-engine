@@ -108,7 +108,7 @@ The input for this technique is:
 <details closed>
 pmodel = SimpleArm
 
-userChoice = \{($\boldsymbol{\mathbf{#1}}{\tau}$, PlatformMapping, $\bm{\tau}(0) = \bm{0}$, 1), ($\bm{\theta},Method1$, \textit{IBConditions}, 7)\}
+userChoice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\bm{\tau}(0) = \bm{0}$, 1), ($\bm{\theta},Method1$, \textit{IBConditions}, 7)\}
 <\details>
 
 **Step 1)**
