@@ -116,12 +116,11 @@ userChoice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, ($\boldsymbol{\ma
   
 ![resolveMethod](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b1a14b17-9287-4276-b151-7efb56ef3480)
 
-The result of this step is:
 
-choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{\tau}}(0) = \boldsymbol{\mathbf{0}}$, 1), ($\bm{\theta},Method1$, \textit{IBConditions}, 7), ($\dot{\boldsymbol{\mathbf{\theta}}}$, Euler, $\dot{\boldsymbol{\mathbf{\theta}}}(0) = \boldsymbol{\mathbf{0}}, 6)$, $(\ddot{\boldsymbol{\mathbf{\theta}}}$, Direct Forward Dynamics,  $\Ddot{\bm{\theta}}(0) = \bm{0}$, 5), ($\bm{C}$, Newton-Euler Inverse Dynamics, $\bm{C}(\bm{0}) = \bm{0}$, 3), ($\mathcal{M}$, Composite Body Algorithm, $\mathcal{M}(\bm{0}) = \mathcal{M}$, 2), ($\mathcal{M}^{-1}$, Cholesky Algorithm, $\mathcal{M}^{-1}(\bm{0}) = \bm{0}$, 4)\}
+The result of this step is:
 <details closed>
   
-![resolveMethod](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b1a14b17-9287-4276-b151-7efb56ef3480)
+choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{\tau}}(0) = \boldsymbol{\mathbf{0}}$, 1), ($\bm{\theta},Method1$, \textit{IBConditions}, 7), ($\dot{\boldsymbol{\mathbf{\theta}}}$, Euler, $\dot{\boldsymbol{\mathbf{\theta}}}(0) = \boldsymbol{\mathbf{0}}, 6)$, $(\ddot{\boldsymbol{\mathbf{\theta}}}$, Direct Forward Dynamics,  $\Ddot{\boldsymbol{\mathbf{\theta}}}(0) = \\boldsymbol{\mathbf{0}}$, 5), ($\boldsymbol{\mathbf{C}}$, Newton-Euler Inverse Dynamics, $\boldsymbol{\mathbf{C}}(\bm{0}) = \boldsymbol{\mathbf{0}}$, 3), ($\mathcal{M}$, Composite Body Algorithm, $\mathcal{M}(\boldsymbol{\mathbf{0}}) = \mathcal{M}$, 2), ($\mathcal{M}^{-1}$, Cholesky Algorithm, $\mathcal{M}^{-1}(\boldsymbol{\mathbf{0}}) = \boldsymbol{\mathbf{0}}$, 4)\}
 
 </details>
 
