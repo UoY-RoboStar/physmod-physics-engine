@@ -101,8 +101,9 @@ The result of this step is:
 </details>
 
 
+\(
 \newcommand{\bm}[1]{\boldsymbol{\mathbf{#1}}}
-
+\)
 # Technique 4
 
 ![Technique4](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/321c62df-68ad-4902-9366-41bba2c3e1a0)
