@@ -108,14 +108,14 @@ The input for this technique is:
 <details closed>
 pmodel = SimpleArm
 
-userChoice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\bm{\tau}(0) = \bm{0}$, 1), ($\bm{\theta},Method1$, \textit{IBConditions}, 7)\}
-<\details>
+userChoice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, ($\boldsymbol{\mathbf{\tau}}$(0) = \bm{0}$, 1), (($\boldsymbol{\mathbf{\theta}}$,Method1$, \textit{IBConditions}, 7)\}
+</details>
 
 **Step 1)**
 <details closed>
 ![resolveMethod](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b1a14b17-9287-4276-b151-7efb56ef3480)
 
-<\details>
+</details>
 
 # Technique 5
 ![Technique5](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/251c93e0-ffdf-4b75-a85a-21505bfce027)
