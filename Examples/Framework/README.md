@@ -58,9 +58,8 @@ The formulation-dependent calculation for the components is as follows:
 
 ![jointEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/cb857dff-7273-4707-ac77-ae491bcb76b7)
 
-The result of this step is:
 <details closed>
-  
+<summary>The result of this step is:</summary>
 ![Gripper](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/1b91db98-1dc6-4631-8ee2-7cb74a984bc3)
 
 ![IntermediateLink](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/328b0f5e-d842-48bd-b95b-1f0bd4c0d72f)
@@ -85,9 +84,9 @@ The formulation-dependent calculation for the whole system is as follows:
 
 ![SystemEquations](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b6e45249-8a02-4e80-a488-93adf93540cd)
 
-The result of this step is:
 <details closed>
-
+<summary>The result of this step is:</summary>
+  
 ![pmodel1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/484d7a7f-2a08-4e8d-a1e6-87901eefb582)
 
 ![pmodel2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/c8e5f629-f407-4807-b463-f1e243650dc6)
@@ -117,8 +116,8 @@ userChoice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, ($\boldsymbol{\ma
 ![resolveMethod](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b1a14b17-9287-4276-b151-7efb56ef3480)
 
 
-The result of this step is:
 <details closed>
+<summary>The result of this step is:</summary>
   
 choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{\tau}}(0) = \boldsymbol{\mathbf{0}}$, 1), ($\boldsymbol{\mathbf{\theta}},Method1$, \textit{IBConditions}, 7), ($\dot{\boldsymbol{\mathbf{\theta}}}$, Euler, $\dot{\boldsymbol{\mathbf{\theta}}}(0) = \boldsymbol{\mathbf{0}}, 6)$, $(\ddot{\boldsymbol{\mathbf{\theta}}}$, Direct Forward Dynamics,  $\ddot{\boldsymbol{\mathbf{\theta}}}(0) = \\boldsymbol{\mathbf{0}}$, 5), ($\boldsymbol{\mathbf{C}}$, Newton-Euler Inverse Dynamics, $\boldsymbol{\mathbf{C}}(\boldsymbol{\mathbf{0}}) = \boldsymbol{\mathbf{0}}$, 3), ($\mathcal{M}$, Composite Body Algorithm, $\mathcal{M}(\boldsymbol{\mathbf{0}}) = \mathcal{M}$, 2), ($\mathcal{M}^{-1}$, Cholesky Algorithm, $\mathcal{M}^{-1}(\boldsymbol{\mathbf{0}}) = \boldsymbol{\mathbf{0}}$, 4)\}
 
@@ -128,10 +127,11 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 **Step 2)**
 <details closed>
 
-![updatePModel](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/44ef9e87-fb39-4beb-9fe2-ec7e149c8fde)
+![updatePModel](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/d57ea0e7-b3b5-472e-a886-8f0bf584f2e9)
 
-The result of this step:
 <details closed>
+  <summary>The result of this step:</summary>
+  
   appends the variable minv to the pmodel. 
   </details>
 </details>
