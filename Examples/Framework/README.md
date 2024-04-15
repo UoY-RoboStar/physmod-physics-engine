@@ -152,15 +152,18 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
   The result of this step is:
 <details closed>
 
+![appendIBConditions_result](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/c0414f48-4776-4c93-b152-b14928af135f)
+
   </details>
 </details>
 
 **Step 5)**
 <details closed>
-
-  The result of this step is:
+  
 <details closed>
+<summary>The result of this step is:</summary>
 
+  
   </details>
 </details>
 
@@ -173,6 +176,7 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 <details closed>
   The result of this step is:
 <details closed>
+
 
   </details>
 </details>
