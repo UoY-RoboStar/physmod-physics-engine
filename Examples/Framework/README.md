@@ -163,7 +163,7 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 <details closed>
 <summary>The result of this step is:</summary>
 
-![Uploading computeErrors_result.png…]()
+![computeErrors_result](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/d6a9613a-0805-4a4b-8068-a4c1d87c3582)
 
   
   </details>
