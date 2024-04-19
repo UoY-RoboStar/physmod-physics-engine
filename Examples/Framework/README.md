@@ -176,9 +176,15 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 
 **Step 1)**
 <details closed>
-  The result of this step is:
+  
 <details closed>
+<summary>The result of this step is:</summary>
 
+![GenerateSolutions1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/f44d67b5-4de7-4cea-bada-3ddc46c95a1c)
+
+![GenerateSolutions2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/614e86b5-f3ef-4bb8-b908-2630e8cb4757)
+
+![GenerateSolutions3](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/6aa5cc59-3ba8-487d-aada-c01bbb47a9ac)
 
   </details>
 </details>
