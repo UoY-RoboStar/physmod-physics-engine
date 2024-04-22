@@ -191,6 +191,8 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 
 **Step 2)**
 <details closed>
+  
+![initialiseState](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/603035f5-2fa3-4f6e-aaf4-e8aa52e83696)
 
   The result of this step is:
 <details closed>
