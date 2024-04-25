@@ -60,15 +60,22 @@ The formulation-dependent calculation for the components is as follows:
 
 <details closed>
 <summary>The result of this step is:</summary>
-![Gripper](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/1b91db98-1dc6-4631-8ee2-7cb74a984bc3)
 
-![IntermediateLink](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/328b0f5e-d842-48bd-b95b-1f0bd4c0d72f)
+![Gripper](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/d022dd68-98ed-460e-af54-755f62de2b44)
 
-![BaseLink](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/7b4633e8-3740-4d10-bc19-0488816ed6b5)
+![IntermediateLink](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/ecbaacd1-36e8-46ac-a486-b1cf2eab1098)
 
-![WristJoint](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/d0d59e16-fce7-48f7-b9f6-b39cc5e1b2b2)
+![BaseLink](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/9885871d-9d5a-4f6f-846c-342098f88ffe)
 
-![ElbowJoint](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/cdd515d7-3dbc-4769-a48c-a406bff3c097)
+![WristJoint](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/1f3e7529-3fef-4a76-9e6e-6bf8a672bb42)
+
+![ElbowJoint](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/53df0a07-9ece-4276-9384-fe3ae8064c64)
+
+![pmodel1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/ac0551b1-b9ae-4b2b-9d6d-b7b08f8b184b)
+
+![pmodel2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/905f693e-83e0-42d9-97b1-d1d83c1a5199)
+
+![Functions](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/a253b328-da44-4b5d-9c32-92bf37f53c7e)
 
 </details>
 
