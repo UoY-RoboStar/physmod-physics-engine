@@ -71,12 +71,6 @@ The formulation-dependent calculation for the components is as follows:
 
 ![ElbowJoint](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/53df0a07-9ece-4276-9384-fe3ae8064c64)
 
-![pmodel1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/ac0551b1-b9ae-4b2b-9d6d-b7b08f8b184b)
-
-![pmodel2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/905f693e-83e0-42d9-97b1-d1d83c1a5199)
-
-![Functions](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/a253b328-da44-4b5d-9c32-92bf37f53c7e)
-
 </details>
 
 
@@ -94,11 +88,11 @@ The formulation-dependent calculation for the whole system is as follows:
 <details closed>
 <summary>The result of this step is:</summary>
   
-![pmodel1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/484d7a7f-2a08-4e8d-a1e6-87901eefb582)
+![pmodel1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/ac0551b1-b9ae-4b2b-9d6d-b7b08f8b184b)
 
-![pmodel2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/c8e5f629-f407-4807-b463-f1e243650dc6)
+![pmodel2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/905f693e-83e0-42d9-97b1-d1d83c1a5199)
 
-![Datatypes](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/23c4fa1e-1ebb-43fb-9c98-5508921aefe6)
+![Functions](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/a253b328-da44-4b5d-9c32-92bf37f53c7e)
 
 
 </details>
