@@ -141,8 +141,8 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 <details closed>
 <details closed>
 <summary>The result of this step is:</summary>
-
-  ![appendSolutions_result](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/52d1ff88-c577-4aa8-8810-24e173591fe4)
+  
+![appendSolutions_result](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/a6d292e3-540f-4ecd-9682-d5a818b36be6)
 
   </details>
 </details>
@@ -152,8 +152,8 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 
   The result of this step is:
 <details closed>
-
-![appendIBConditions_result](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/28787872-380b-4b0f-bb07-56df9e88f95a)
+  
+![appendConstraints_result](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/19c71f53-2da1-406d-a6fa-53a62d6e47e1)
 
   </details>
 </details>
@@ -164,7 +164,7 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 <details closed>
 <summary>The result of this step is:</summary>
 
-![computeErrors_result](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/d6a9613a-0805-4a4b-8068-a4c1d87c3582)
+![computeErrors_result](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b7f99e80-7c75-4f71-b933-e7ec3d13995d)
 
   
   </details>
