@@ -6,6 +6,9 @@
     
   ![SimpleArmSerial](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/40aa0e10-6436-444d-aa79-88fe527a29ed)
 
+  ![JointDefs](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/5f821b1f-1e85-43ef-bb0b-3795664cb316)
+
+
 </details>
 
 # Technique 3
