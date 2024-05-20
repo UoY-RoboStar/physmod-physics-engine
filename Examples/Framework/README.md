@@ -183,12 +183,14 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
   
 <details closed>
 <summary>The result of this step is:</summary>
+  
+![T5S1_1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b3f26a1f-91af-4f92-8162-bc9f241364bb)
 
-![GenerateSolutions1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/f44d67b5-4de7-4cea-bada-3ddc46c95a1c)
+![T5S1_2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/583010b0-5799-48d6-bade-3bd5879b8266)
 
-![GenerateSolutions2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/614e86b5-f3ef-4bb8-b908-2630e8cb4757)
+![T5S1_3](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/8de76eca-8bc7-4361-acb6-8675c0d3a670)
 
-![GenerateSolutions3](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/6aa5cc59-3ba8-487d-aada-c01bbb47a9ac)
+![T5S1_4](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/21b7bdd2-ea17-470b-baac-529c5ab7ea4f)
 
   </details>
 </details>
