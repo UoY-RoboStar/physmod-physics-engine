@@ -184,13 +184,14 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 <details closed>
 <summary>The result of this step is:</summary>
   
-![T5S1_1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b3f26a1f-91af-4f92-8162-bc9f241364bb)
+![T5S1_1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/0c6cbe77-e00c-4af0-9c4f-e8f4fc4dc171)
 
-![T5S1_2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/583010b0-5799-48d6-bade-3bd5879b8266)
+![T5S1_2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/f19a7981-2fc0-4c27-9295-6c121fc6acc5)
 
-![T5S1_3](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/8de76eca-8bc7-4361-acb6-8675c0d3a670)
+![T5S1_3](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/de3fb8e5-b22c-4ecd-b45b-b7bbe2fa01d1)
 
-![T5S1_4](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/21b7bdd2-ea17-470b-baac-529c5ab7ea4f)
+![T5S1_4](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/42925537-0254-4476-be7c-f2956d18ca8b)
+
 
   </details>
 </details>
