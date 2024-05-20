@@ -201,8 +201,10 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
   
 ![initialiseState](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/603035f5-2fa3-4f6e-aaf4-e8aa52e83696)
 
-  The result of this step is:
 <details closed>
+<summary>The result of this step is:</summary>
+
+  ![T5S2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/dc5fc280-5f9b-4e20-805c-4cf5c1b77dc8)
 
   </details>
 </details>
@@ -210,8 +212,16 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 **Step 3)**
 <details closed>
 
-  The result of this step is:
 <details closed>
+<summary>The result of this step is:</summary>
+
+![T5S3_1](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/6eef52e7-4607-4f74-9dbc-fc1a338c6d60)
+
+![T5S3_2](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/03565135-cb8a-46b8-ae96-f4120544aa69)
+
+![T5S3_3](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/9dcdb428-22f8-4a6b-83bd-24737c9c2c96)
+
+![T5S3_4](https://github.com/UoY-RoboStar/physmod-physics-engine/assets/42748381/b7d050f2-9643-48e2-a25e-c89ac9db56ae)
 
   </details>
 </details>
@@ -219,8 +229,8 @@ choice = \{($\boldsymbol{\mathbf{\tau}}$, PlatformMapping, $\boldsymbol{\mathbf{
 **Step 4)**
 <details closed>
 
-  The result of this step is:
 <details closed>
-
+<summary>The result of this step is:</summary>
+  
   </details>
 </details>
